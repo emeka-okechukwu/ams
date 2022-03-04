@@ -1,11 +1,3 @@
-<?php
-//connect to the core file for general configuration
-require("../settings/core.php");
-
-//check for login
-check_login();
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
